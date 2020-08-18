@@ -2,9 +2,9 @@
 
 This repository contains material from Time Series week of UPSchool Data Science Course. Contents are:
 
-* Day 1: Introduction to Time Series and statistical methods for analysis/forecasting. `notebooks/intro.ipynb`
+* Day 1: Introduction to Time Series and statistical methods for analysis/forecasting. `notebooks/1-intro.ipynb`
 * Day 2: Linear Regression with OLS method. Extension to basis functions and polynomial features. Presented as Streamlit demo.
-* Day 3: Live coding session on Istanbul Dam Water Reserve Data. `notebooks/baraj.ipynb`
+* Day 3: Live coding session on Istanbul Dam Water Reserve Data. `notebooks/2-baraj.ipynb`
 
 ### Linear Regression and Time Series Streamlit Demo
 
